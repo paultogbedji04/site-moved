@@ -1,5 +1,259 @@
 {
   "redirects": [
-    { "source": "/(.*)", "destination": "https://www.fplace.vip/$1", "permanent": true }
+    {
+      "source": "/formation/smart-finance-pro-ytw-deaea0b3",
+      "destination": "https://www.fplace.vip/formation/smart-finance-pro-86098ac5",
+      "permanent": true
+    },
+    {
+      "source": "/formation/youtube-business-6c8631b6",
+      "destination": "https://www.fplace.vip/formation/youtube-business-6c8631b6",
+      "permanent": true
+    },
+    {
+      "source": "/formation/xeilos-trading-2026-7071a5a2",
+      "destination": "https://www.fplace.vip/formation/xeilos-trading-2026-403f04b6",
+      "permanent": true
+    },
+    {
+      "source": "/formation/hugo-facecode-plus-78de16ec",
+      "destination": "https://www.fplace.vip/formation/facecode-plus-2026-b1b24d34",
+      "permanent": true
+    },
+    {
+      "source": "/formation/l-usine-a-best-sellers-8aae9ad3",
+      "destination": "https://www.fplace.vip/formation/l-usine-a-best-sellers-a0043a26",
+      "permanent": true
+    },
+    {
+      "source": "/formation/la-cyprine-58d3f9e7",
+      "destination": "https://www.fplace.vip/formation/la-cyprine-5d2a3141",
+      "permanent": true
+    },
+    {
+      "source": "/formation/retail-360-fbacademie-65139cd9",
+      "destination": "https://www.fplace.vip/formation/retail-360-fbacademie-364e8f3b",
+      "permanent": true
+    },
+    {
+      "source": "/formation/formation-wordpress-et-woocommerce-6aa80e5e",
+      "destination": "https://www.fplace.vip/formation/formation-wordpress-et-woocommerce-6aa80e5e",
+      "permanent": true
+    },
+    {
+      "source": "/formation/wordpress-seo-70bcb7a4",
+      "destination": "https://www.fplace.vip/formation/wordpress-seo-70bcb7a4",
+      "permanent": true
+    },
+    {
+      "source": "/formation/drop-elite-2-0-99afc2d0",
+      "destination": "https://www.fplace.vip/formation/drop-elite-2-0-99afc2d0",
+      "permanent": true
+    },
+    {
+      "source": "/formation/digital-holding-01bc9cbd",
+      "destination": "https://www.fplace.vip/formations.html",
+      "permanent": true
+    },
+    {
+      "source": "/formation/remy-jupille-pack-complet-c0ca0cb5",
+      "destination": "https://www.fplace.vip/formation/pack-complet-2295fd04",
+      "permanent": true
+    },
+    {
+      "source": "/formation/digital-success-academy-2026-cc6c5b01",
+      "destination": "https://www.fplace.vip/formation/digital-succes-academy-40ff3c19",
+      "permanent": true
+    },
+    {
+      "source": "/formation/entrepreneur-3-0-1d87681f",
+      "destination": "https://www.fplace.vip/formation/entrepreneur-3-0-1d87681f",
+      "permanent": true
+    },
+    {
+      "source": "/formation/reprenariat-41472c1a",
+      "destination": "https://www.fplace.vip/formation/reprenariat-41472c1a",
+      "permanent": true
+    },
+    {
+      "source": "/formation/onlycash-06a6d7d6",
+      "destination": "https://www.fplace.vip/formation/onlycash-06a6d7d6",
+      "permanent": true
+    },
+    {
+      "source": "/formation/retail-360-fbacademie-f359b865",
+      "destination": "https://www.fplace.vip/formation/retail-360-fbacademie-364e8f3b",
+      "permanent": true
+    },
+    {
+      "source": "/formation/gestion-d-entreprise-90689180",
+      "destination": "https://www.fplace.vip/formation/gestion-d-entreprise-90689180",
+      "permanent": true
+    },
+    {
+      "source": "/formation/reprise-d-entreprise-9425a9a7",
+      "destination": "https://www.fplace.vip/formation/reprise-d-entreprise-9425a9a7",
+      "permanent": true
+    },
+    {
+      "source": "/formation/pack-complet-15f53270",
+      "destination": "https://www.fplace.vip/formation/pack-complet-15f53270",
+      "permanent": true
+    },
+    {
+      "source": "/formation/poker-pro-182d7f43",
+      "destination": "https://www.fplace.vip/formation/poker-pro-182d7f43",
+      "permanent": true
+    },
+    {
+      "source": "/formation/closing-hybride-083d82fa",
+      "destination": "https://www.fplace.vip/formation/closing-hybride-083d82fa",
+      "permanent": true
+    },
+    {
+      "source": "/formation/trader-rentable-b8c643ac",
+      "destination": "https://www.fplace.vip/formation/trader-rentable-b8c643ac",
+      "permanent": true
+    },
+    {
+      "source": "/formation/secret-de-banquiers-764a934c",
+      "destination": "https://www.fplace.vip/formation/secret-de-banquiers-764a934c",
+      "permanent": true
+    },
+    {
+      "source": "/formation/investisseur-pro-90879459",
+      "destination": "https://www.fplace.vip/formation/investisseur-pro-90879459",
+      "permanent": true
+    },
+    {
+      "source": "/formation/ofm-ia-2160fcf1",
+      "destination": "https://www.fplace.vip/formation/ofm-ia-2160fcf1",
+      "permanent": true
+    },
+    {
+      "source": "/formation/business-os-91a6cd09",
+      "destination": "https://www.fplace.vip/formation/business-os-91a6cd09",
+      "permanent": true
+    },
+    {
+      "source": "/formation/business-pro-smma-ba88298c",
+      "destination": "https://www.fplace.vip/formation/business-pro-smma-ba88298c",
+      "permanent": true
+    },
+    {
+      "source": "/formation/ecom-no-limit-62252eb0",
+      "destination": "https://www.fplace.vip/formation/ecom-no-limit-62252eb0",
+      "permanent": true
+    },
+    {
+      "source": "/formation/le-tremplin-722feb7e",
+      "destination": "https://www.fplace.vip/formation/le-tremplin-17cc57d3",
+      "permanent": true
+    },
+    {
+      "source": "/formation/the-business-legion-v2-07fd17f1",
+      "destination": "https://www.fplace.vip/formation/the-business-legion-v2-07fd17f1",
+      "permanent": true
+    },
+    {
+      "source": "/formation/fast-money-dropshipping-6f7c63ff",
+      "destination": "https://www.fplace.vip/formations.html",
+      "permanent": true
+    },
+    {
+      "source": "/formation/digital-holding-6300302e",
+      "destination": "https://www.fplace.vip/formations.html",
+      "permanent": true
+    },
+    {
+      "source": "/formation/programme-d-accompagnement-adbffeb0",
+      "destination": "https://www.fplace.vip/formation/programme-d-accompagnement-adbffeb0",
+      "permanent": true
+    },
+    {
+      "source": "/formation/zecom-academie-eaace5d8",
+      "destination": "https://www.fplace.vip/formation/zecom-academie-e56d3fa5",
+      "permanent": true
+    },
+    {
+      "source": "/formation/masterclass-premiere-pro-bb9702e4",
+      "destination": "https://www.fplace.vip/formation/masterclass-premiere-pro-2026-79c31e8d",
+      "permanent": true
+    },
+    {
+      "source": "/formation/pack-complet-2f6fc3fc",
+      "destination": "https://www.fplace.vip/formations.html",
+      "permanent": true
+    },
+    {
+      "source": "/formation/liberty-weby-57c460a6",
+      "destination": "https://www.fplace.vip/formation/liberty-weby-6c4f627f",
+      "permanent": true
+    },
+    {
+      "source": "/formation/macro-accelerator-44279503",
+      "destination": "https://www.fplace.vip/formation/macro-accelerator-43443b04",
+      "permanent": true
+    },
+    {
+      "source": "/formation/ecom-bluprint-94257be0",
+      "destination": "https://www.fplace.vip/formation/ecom-bluprint-69012045",
+      "permanent": true
+    },
+    {
+      "source": "/formation/alpha-zen-thami-kabbaj-37fd6b9a",
+      "destination": "https://www.fplace.vip/formation/alpha-zen-3f8e8803",
+      "permanent": true
+    },
+    {
+      "source": "/formation/pack-mindeo-4835ad48",
+      "destination": "https://www.fplace.vip/formation/pack-mindeo-4835ad48",
+      "permanent": true
+    },
+    {
+      "source": "/formation/liberty-weby-a5dfdb1a",
+      "destination": "https://www.fplace.vip/formation/liberty-weby-6c4f627f",
+      "permanent": true
+    },
+    {
+      "source": "/formation/aca-agency-louis-key-d0fdcd50",
+      "destination": "https://www.fplace.vip/formation/aca-agency-v2-2026-1c7f39f6",
+      "permanent": true
+    },
+    {
+      "source": "/formation/masterclass-premiere-pro-c2c7373c",
+      "destination": "https://www.fplace.vip/formation/masterclass-premiere-pro-2026-79c31e8d",
+      "permanent": true
+    },
+    {
+      "source": "/formation/impulsion-media-buying-2026-09273749",
+      "destination": "https://www.fplace.vip/formation/impulsion-media-buying-2026-09273749",
+      "permanent": true
+    },
+    {
+      "source": "/formation/challenge-10k-en-3-mouvements-ac4df414",
+      "destination": "https://www.fplace.vip/formation/challenge-10k-en-3-mouvements-ac4df414",
+      "permanent": true
+    },
+    {
+      "source": "/formation/atomic-creator-0829a7d3",
+      "destination": "https://www.fplace.vip/formation/atomic-creator-0829a7d3",
+      "permanent": true
+    },
+    {
+      "source": "/formation/reussir-sa-construction-et-sa-renovation-47aba814",
+      "destination": "https://www.fplace.vip/formation/reussir-sa-construction-et-sa-renovation-47aba814",
+      "permanent": true
+    },
+    {
+      "source": "/formation/en-route-pour-le-million-2db5485a",
+      "destination": "https://www.fplace.vip/formations.html",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://www.fplace.vip/$1",
+      "permanent": true
+    }
   ]
 }
